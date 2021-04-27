@@ -2,3 +2,4 @@
 *.avi
 *.png
 *.csv
+models/dave-2-cnn-image2angle.h5
