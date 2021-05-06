@@ -1,5 +1,4 @@
-
-*.avi
-*.png
-*.csv
+# Files to ignore
+data/external/*
+reports/training-history/temp/*
 models/dave-2-cnn-image2angle.h5
