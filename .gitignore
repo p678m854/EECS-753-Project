@@ -1,4 +1,5 @@
 # Files to ignore
-data/external/*
+data/external/DeepPicar-data/*
+data/external/DeepPicar-v2-data/*
 reports/training-history/temp/*
 models/dave-2-cnn-image2angle.h5
