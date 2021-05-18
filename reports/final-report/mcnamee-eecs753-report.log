@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.10.26)  17 MAY 2021 22:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.10.26)  18 MAY 2021 10:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -699,7 +699,7 @@ Before submitting the final camera ready copy, remember to:
 Here is how much of TeX's memory you used:
  14492 strings out of 481239
  284316 string characters out of 5920376
- 527665 words of memory out of 5000000
+ 527622 words of memory out of 5000000
  29460 multiletter control sequences out of 15000+600000
  574193 words of font info for 103 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -722,7 +722,7 @@ m10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/urw/times/utmri8a.pfb>
-Output written on mcnamee-eecs753-report.pdf (7 pages, 2083048 bytes).
+Output written on mcnamee-eecs753-report.pdf (7 pages, 2070141 bytes).
 PDF statistics:
  112 PDF objects out of 1000 (max. 8388607)
  77 compressed objects within 1 object stream

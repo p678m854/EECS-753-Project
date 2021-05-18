@@ -75,7 +75,7 @@ if __name__ == "__main__":
 
     # Axis positioning adjustment
     ax.set_position([0.2, 0.225, 0.75, 0.7])
-    plt.savefig("cnn-i2c-th.eps", pad_inches=0)
+    plt.savefig("cnn-i2c-th.png", pad_inches=0)
     
     plt.show()
 
@@ -136,6 +136,6 @@ if __name__ == "__main__":
 
     # Axis positioning adjustment
     ax.set_position([0.2, 0.225, 0.75, 0.7])
-    plt.savefig("cnn-i2p-th.eps", pad_inches=0)
+    plt.savefig("cnn-i2p-th.png", pad_inches=0)
     
     plt.show()
