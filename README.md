@@ -52,9 +52,11 @@ There are three repositories, including this one, that need to be downloaded ont
 
 Navigate to where you wish to have the three repositories and clone the GitHub repositories. Clone to the appropriate depth where a depth of 2 of this repository will yield the appropriate python scripts and models for running the DeepPicar with the CNN of this repository.
 
-> $ git clone https://github.com/p678m854/EECS-753-Project
-> $ git clone --depth=1 https://github.com/mbechtel2/DeepPicar-v2
-> $ git clone https://github.com/pololu/drv8835-motor-driver-rpi
+```
+$ git clone https://github.com/p678m854/EECS-753-Project
+$ git clone --depth=1 https://github.com/mbechtel2/DeepPicar-v2
+$ git clone https://github.com/pololu/drv8835-motor-driver-rpi
+```
 
 ### Python libraries
 
